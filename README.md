@@ -25,9 +25,6 @@ A deep learning-based image classifier built to distinguish between images of **
 ├── app.py # Flask application
 ├── requirements.txt # Python dependencies
 
-yaml
-Copy code
-
 ---
 
 ## 🧪 How to Run
