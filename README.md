@@ -30,8 +30,8 @@ A deep learning-based image classifier built to distinguish between images of **
 ## 🧪 How to Run
 
 ### 1. Clone the Repository
-git clone https://github.com/your-username/cat-dog-classifier.git
-cd cat-dog-classifier
+git clone https://github.com/your-username/CAT_AND_DOG_AI.git
+cd CAT_AND_DOG_AI
 
 2. Set Up a Virtual Environment (Optional but Recommended)
 python -m venv venv
